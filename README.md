@@ -1,7 +1,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>TRACK DADDY</title>
+  <title>Macro Tracker</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
   <!-- Rubik Font -->
@@ -89,7 +89,7 @@
   </style>
 </head>
 <body>
-  <h1>Macro Tracker</h1>
+  <h1>Macro Track</h1>
 
   <form id="macro-form">
     <input type="text" id="description" placeholder="Meal description" required>
