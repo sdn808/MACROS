@@ -89,7 +89,7 @@
   </style>
 </head>
 <body>
-  <h1>Macro Track</h1>
+  <h1>Macro Tracker</h1>
 
   <form id="macro-form">
     <input type="text" id="description" placeholder="Meal description" required>
