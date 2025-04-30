@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Macro Tracker</title>
+  <title>TRACK DADDY</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   
   <!-- Rubik Font -->
